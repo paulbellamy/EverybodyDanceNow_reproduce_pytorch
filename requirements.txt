@@ -1,0 +1,10 @@
+Cython
+matplotlib
+opencv-python
+pandas
+pathlib
+pycocotools
+torch
+tqdm
+scipy
+scikit-image
